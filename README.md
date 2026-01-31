@@ -1,3 +1,6 @@
+![Language](https://img.shields.io/badge/Language-HTML-blue?logo=html5)
+![Language](https://img.shields.io/badge/Language-CSS-yellow?logo=css3)
+![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ---
 
