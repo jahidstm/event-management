@@ -1,0 +1,54 @@
+/* Reset basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Body style */
+body {
+    background-color: #f4f6f8;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin-bottom: 5px;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+section {
+    background: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Event list */
+.events ul {
+    list-style: none;
+}
+
+.events li {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    back
